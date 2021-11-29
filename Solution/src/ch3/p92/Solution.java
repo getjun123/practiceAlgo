@@ -1,3 +1,4 @@
+package ch3.p92;
 import java.util.Arrays;
 
 public class Solution {
