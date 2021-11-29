@@ -9,7 +9,7 @@ public class Solution {
 		s.Solution();
 	}
 	
-	public void Solution() {
+	public void Solution() { 
 		int[] arr = {2,4,5,4,6};
 		Arrays.sort(arr);
 		System.out.println(Arrays.toString(arr));
