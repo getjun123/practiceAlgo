@@ -29,6 +29,6 @@ public class Solution {
 				total += max;
 			}
 		}
-		System.out.println("total: " + total);
+		System.out.println("total: " + total );
 	}
 }
