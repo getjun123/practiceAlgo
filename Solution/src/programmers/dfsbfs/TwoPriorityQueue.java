@@ -11,7 +11,6 @@ public class TwoPriorityQueue {
 		s.solution(operations);
 	}
 }
-
 class Solution {
 	 
     public int[] solution(String[] operations) {
