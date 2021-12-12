@@ -42,7 +42,6 @@ class Solution {
         	answer[1] = pq.peek();
         }
         //System.out.printf("%d , %d", answer[0], answer[1]);
-        
         return answer;
     }
 }
