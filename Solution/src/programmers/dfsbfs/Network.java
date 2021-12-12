@@ -28,7 +28,7 @@ class Solution {
         return answer;
     }
     
-    public int search(int idx, Node n, List<Node> list) { //현재 idx, 현재 node
+    public int search(int idx, Node n, List<Node> list) {
     	if(n.isVisit() == false) {
 	    	n.setVisit(true); //방문 표시
 	    	for(int i=0; i<n.getNet().length; i++) {
